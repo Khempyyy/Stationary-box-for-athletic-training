@@ -1,1 +1,2 @@
 # Stationary-box-for-athletic-training
+This project aims to create a tool to assist with hand sport training. You can find full details in Thai in the attached PDF file. The project is open source and not protected by copyright, so anyone is free to build or develop it further. There are several prototype code files available in the repository, and the complete version of the code is included on the last page of the PDF. Apologies—I can’t recall the exact file name of the full code.
